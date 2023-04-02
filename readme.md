@@ -1,4 +1,4 @@
-## <p align='center'>Programmiersprachenaufgaben und Lösungen (Phyton)</p>
+## <p align='center'>Programmiersprachenaufgaben und Lösungen (Python)</p>
 ### <p align='center'>Zyklus For</p>
 
 ---
